@@ -1,0 +1,1 @@
+# VoidLinux-i3cfg
